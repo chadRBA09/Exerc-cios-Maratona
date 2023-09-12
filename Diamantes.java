@@ -18,7 +18,7 @@ class Diamantes{
                 }
             
            }
-           MyIO.println(aux);       
+           //MyIO.println(aux); debug      
              for (int k = 0; k < aux.length(); k++)
            {
                 if(aux.charAt(k) == '<')
